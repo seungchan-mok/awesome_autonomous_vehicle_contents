@@ -8,3 +8,4 @@
 - [ROS Tutorials](http://wiki.ros.org/ROS/Tutorials)
 - [ROS 강의 by 표윤석](https://www.youtube.com/playlist?list=PLRG6WP3c31_VIFtFAxSke2NG_DumVZPgw)
 - [영상 특징점(keypoint)추출방법](https://darkpgmr.tistory.com/131?category=460965)
+- [SLAM KR Facebook Group](https://www.facebook.com/groups/slamkr)
