@@ -36,3 +36,9 @@
 - [다익스트라 알고리즘(Dijkstra Algorithm)](https://hsp1116.tistory.com/42)
 - [국토지리정보원 HD MAP](http://map.ngii.go.kr/ms/pblictn/preciseRoadMap.do)
 - [CV 개발 라이브러리](https://www.notion.so/CV-42cdaa2d211547eeba40f958ed9ae1cb)
+- [카메라 캘리브레이션 (Camera Calibration)](https://darkpgmr.tistory.com/32)
+- [영상의 기하학적 해석 - 영상의 지면 투영(ground projection)](https://darkpgmr.tistory.com/153?category=460965)
+- [KAIST URBAN DATA SET](https://irap.kaist.ac.kr/dataset/)
+- [KAIST Multispectral Pedestrian Detection Benchmark](https://sites.google.com/site/pedestrianbenchmark/)
+- [KITTI DATASET](http://www.cvlibs.net/datasets/kitti/)
+
