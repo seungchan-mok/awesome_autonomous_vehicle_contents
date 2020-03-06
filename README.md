@@ -1,6 +1,13 @@
 # autonomous_contents
 자율주행 개발자를 위한 컨텐츠 모음
 
+## Overview
+
+- Lang_Framework
+- SLAM
+- Machine Learning
+- etc
+
 ## Contribution
 
 `미분류 Contents`에 자율 주행 개발 관련 링크를 공유해주세요!
@@ -9,12 +16,8 @@
 
 ### 이곳에 있는 링크는 분류를 거쳐 카테고리로 이동됩니다.
 
-- [ROS Tutorials](http://wiki.ros.org/ROS/Tutorials)
-- [ROS 강의 by 표윤석](https://www.youtube.com/playlist?list=PLRG6WP3c31_VIFtFAxSke2NG_DumVZPgw)
 - [영상 특징점(keypoint)추출방법](https://darkpgmr.tistory.com/131?category=460965)
 - [SLAM KR Facebook Group](https://www.facebook.com/groups/slamkr)
-- [초보를 위한 도커 안내서 - 설치하고 컨테이너 실행하기](https://subicura.com/2017/01/19/docker-guide-for-beginners-2.html)
-- [초보를 위한 도커 안내서 - 이미지 만들고 배포하기](https://subicura.com/2017/02/10/docker-guide-for-beginners-create-image-and-deploy.html)
 - [NAVER LABS HD MAP DATASET](https://hdmap.naverlabs.com/)
 - [Probabilistic Robotic pdf](https://docs.ufpr.br/~danielsantos/ProbabilisticRobotics.pdf)
 - [그래픽드라이버 버전별 cuda 호환성](https://github.com/NVIDIA/nvidia-docker/wiki/CUDA)
@@ -23,8 +26,6 @@
 - [Least Squares (최소자승법)](http://jinyongjeong.github.io/2017/02/26/lec12_Least_square/)
 - [PythonRobotics documentation](https://pythonrobotics.readthedocs.io/en/latest/)
 - [Kalman filter와 Extended Kalman filter에 대한 설명](http://jinyongjeong.github.io/2017/02/14/lec03_kalman_filter_and_EKF/)
-- [파이썬 코딩 도장](https://dojang.io/course/view.php?id=7)
-- [C언어 코딩 도장](https://dojang.io/course/view.php?id=2)
 - [모든 컴퓨터 비젼 연구자들이 알아야 할 20개의 techniques](https://200315193.tistory.com/2028)
 - [Mathematics for Machine Learning - textbook](https://mml-book.github.io/)
 - [논문검색프로그램 - Publish or Perish](https://harzing.com/resources/publish-or-perish)
