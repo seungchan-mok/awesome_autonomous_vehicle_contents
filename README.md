@@ -23,4 +23,4 @@
 - [Kalman filter와 Extended Kalman filter에 대한 설명](http://jinyongjeong.github.io/2017/02/14/lec03_kalman_filter_and_EKF/)
 - [awesome-lane-detection](https://github.com/amusi/awesome-lane-detection)
 - [How to implement a YOLO (v3) object detector from scratch in PyTorch](https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/)
-
+- [RANSAC의 이해와 영상처리 활용](https://darkpgmr.tistory.com/61)
