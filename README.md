@@ -24,3 +24,4 @@
 - [awesome-lane-detection](https://github.com/amusi/awesome-lane-detection)
 - [How to implement a YOLO (v3) object detector from scratch in PyTorch](https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/)
 - [RANSAC의 이해와 영상처리 활용](https://darkpgmr.tistory.com/61)
+- [최소자승법 이해와 다양한 활용예 (Least Square Method)](https://darkpgmr.tistory.com/56)
