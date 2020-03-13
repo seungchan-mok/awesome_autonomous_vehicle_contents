@@ -8,3 +8,4 @@
 
 - [논문검색프로그램 - Publish or Perish](https://harzing.com/resources/publish-or-perish)
 - [그래픽드라이버 버전별 cuda 호환성](https://github.com/NVIDIA/nvidia-docker/wiki/CUDA)
+- [awesome-lane-detection](https://github.com/amusi/awesome-lane-detection)

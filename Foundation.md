@@ -10,6 +10,7 @@
 ## Mathmatic
 
 - [Least Squares (최소자승법)](http://jinyongjeong.github.io/2017/02/26/lec12_Least_square/)
+- [최소자승법 이해와 다양한 활용예 (Least Square Method)](https://darkpgmr.tistory.com/56)
 
 ## Computer Vision
 
@@ -18,7 +19,9 @@
 - [CV 개발 라이브러리](https://www.notion.so/CV-42cdaa2d211547eeba40f958ed9ae1cb)
 - [카메라 캘리브레이션 (Camera Calibration)](https://darkpgmr.tistory.com/32)
 - [영상의 기하학적 해석 - 영상의 지면 투영(ground projection)](https://darkpgmr.tistory.com/153?category=460965)
+- [RANSAC의 이해와 영상처리 활용](https://darkpgmr.tistory.com/61)
 
 ## Algorithm
 
 - [다익스트라 알고리즘(Dijkstra Algorithm)](https://hsp1116.tistory.com/42)
+- [Kalman filter와 Extended Kalman filter에 대한 설명](http://jinyongjeong.github.io/2017/02/14/lec03_kalman_filter_and_EKF/)
