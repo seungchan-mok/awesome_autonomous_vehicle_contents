@@ -6,3 +6,9 @@
 - [KAIST Multispectral Pedestrian Detection Benchmark](https://sites.google.com/site/pedestrianbenchmark/)
 - [KITTI DATASET](http://www.cvlibs.net/datasets/kitti/)
 - [Partitioned Nordland Dataset](http://webdiis.unizar.es/~jmfacil/pr-nordland/)
+
+## Simulator
+
+- [gazebo](http://gazebosim.org/)
+- [AirSim](https://github.com/microsoft/AirSim)
+- [Carla](https://github.com/carla-simulator/carla)

@@ -3,6 +3,8 @@
 ## 커뮤니티
 
 - [SLAM KR Facebook Group](https://www.facebook.com/groups/slamkr)
+- [자율주행을 좋아하는 사람들](https://open.kakao.com/o/geMJ6H2)
+- [저희는_SLAM_마스터가_될겁니다](https://open.kakao.com/o/g8T5kxLb)
 
 ## 기타자료
 
