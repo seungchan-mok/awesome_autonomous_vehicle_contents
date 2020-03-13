@@ -5,3 +5,4 @@
 - [KAIST URBAN DATA SET](https://irap.kaist.ac.kr/dataset/)
 - [KAIST Multispectral Pedestrian Detection Benchmark](https://sites.google.com/site/pedestrianbenchmark/)
 - [KITTI DATASET](http://www.cvlibs.net/datasets/kitti/)
+- [Partitioned Nordland Dataset](http://webdiis.unizar.es/~jmfacil/pr-nordland/)

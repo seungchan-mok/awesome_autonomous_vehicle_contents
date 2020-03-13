@@ -9,6 +9,7 @@
 - [Machine Learning](https://github.com/msc9533/awesome_autonomous_vehicle_contents/blob/master/Machine_Learning.md)
 - [Lang_Framework](https://github.com/msc9533/awesome_autonomous_vehicle_contents/blob/master/lang_framework.md)
 - [SLAM](https://github.com/msc9533/awesome_autonomous_vehicle_contents/blob/master/slam.md)
+- [Paper](https://github.com/msc9533/awesome_autonomous_vehicle_contents/blob/master/Paper.md)
 - [etc](https://github.com/msc9533/awesome_autonomous_vehicle_contents/blob/master/etc.md)
 
 ## Contribution
@@ -18,5 +19,3 @@
 ## 미분류 Contents
 
 ### 이곳에 있는 링크는 분류를 거쳐 카테고리로 이동됩니다.
-
-- [Partitioned Nordland Dataset](http://webdiis.unizar.es/~jmfacil/pr-nordland/)
