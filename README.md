@@ -21,3 +21,4 @@
 ### 이곳에 있는 링크는 분류를 거쳐 카테고리로 이동됩니다.
 
 - [Distinctive Image Features from Scale-Invariant Keypoints](https://link.springer.com/article/10.1023/B:VISI.0000029664.99615.94)
+- [영상분할 - Otsu Thresholding(이진화)](https://j07051.tistory.com/364)
