@@ -24,3 +24,4 @@
 - [영상분할 - Otsu Thresholding(이진화)](https://j07051.tistory.com/364)
 - [Lidar Point clound processing for Autonomous Driving​](https://github.com/beedotkiran/Lidar_For_AD_references​)
 - [V.AIS 자료모음](https://v-ais.github.io/blog/study/)
+- [Developing an autonomous driving ML algorithm using OS1 intensity data](https://ouster.com/blog/developing-an-autonomous-driving-ml-algorithm-using-os1-intensity-data/)
