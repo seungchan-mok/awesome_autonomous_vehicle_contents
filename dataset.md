@@ -12,3 +12,4 @@
 - [gazebo](http://gazebosim.org/)
 - [AirSim](https://github.com/microsoft/AirSim)
 - [Carla](https://github.com/carla-simulator/carla)
+- [Apollo](http://apollo.auto/platform/simulation.html)
