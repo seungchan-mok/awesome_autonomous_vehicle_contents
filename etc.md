@@ -12,3 +12,5 @@
 - [그래픽드라이버 버전별 cuda 호환성](https://github.com/NVIDIA/nvidia-docker/wiki/CUDA)
 - [awesome-lane-detection](https://github.com/amusi/awesome-lane-detection)
 - [수식 캡쳐 - tex 변환](https://mathpix.com/)
+- [Lidar Point clound processing for Autonomous Driving​](https://github.com/beedotkiran/Lidar_For_AD_references​)
+- [V.AIS 자료모음](https://v-ais.github.io/blog/study/)
