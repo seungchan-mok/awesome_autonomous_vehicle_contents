@@ -14,3 +14,4 @@
 - [수식 캡쳐 - tex 변환](https://mathpix.com/)
 - [Lidar Point clound processing for Autonomous Driving​](https://github.com/beedotkiran/Lidar_For_AD_references​)
 - [V.AIS 자료모음](https://v-ais.github.io/blog/study/)
+- [NAVER Deview 2019](https://deview.kr/2019/schedule​)
