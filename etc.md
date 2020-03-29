@@ -15,3 +15,4 @@
 - [Lidar Point clound processing for Autonomous Driving​](https://github.com/beedotkiran/Lidar_For_AD_references​)
 - [V.AIS 자료모음](https://v-ais.github.io/blog/study/)
 - [NAVER Deview 2019](https://deview.kr/2019/schedule​)
+- [머신러닝 / 딥러닝 도서비교표](https://docs.google.com/spreadsheets/d/1zpLFAPZ8NA6V09JUUU66g_lvpVra24B_ZTDHunM2O8c/edit?fbclid=IwAR26m1D3T4CatHHtY5Ff8fF3gZ8RRCmAuVS3g5V3_i-rdx73okSCWT0bOOs#gid=2144436952)

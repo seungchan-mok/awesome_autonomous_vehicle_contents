@@ -20,6 +20,8 @@
 - [카메라 캘리브레이션 (Camera Calibration)](https://darkpgmr.tistory.com/32)
 - [영상의 기하학적 해석 - 영상의 지면 투영(ground projection)](https://darkpgmr.tistory.com/153?category=460965)
 - [RANSAC의 이해와 영상처리 활용](https://darkpgmr.tistory.com/61)
+- [Distinctive Image Features from Scale-Invariant Keypoints](https://link.springer.com/article/10.1023/B:VISI.0000029664.99615.94)
+- [영상분할 - Otsu Thresholding(이진화)](https://j07051.tistory.com/364)
 
 ## Algorithm
 
