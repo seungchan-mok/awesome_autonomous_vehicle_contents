@@ -19,6 +19,3 @@
 ## 미분류 Contents
 
 ### 이곳에 있는 링크는 분류를 거쳐 카테고리로 이동됩니다.
-
-- [key points estimation and point instance segmentation approach for lane detection](https://github.com/koyeongmin/PINet)
-- [Learning Lightweight Lane Detection CNNs by Self Attention Distillation](https://github.com/cardwing/Codes-for-Lane-Detection)
