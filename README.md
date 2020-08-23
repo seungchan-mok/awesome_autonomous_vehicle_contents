@@ -25,6 +25,7 @@
 - [Mathematics for Machine Learning - textbook](https://mml-book.github.io/)
 - [An Invitation to 3D Vision: A Tutorial for Everyone](https://github.com/sunglok/3dv_tutorial)
 - [opensfm docs](https://www.opensfm.org/docs/)
+- [1시간만에 GAN(Generative Adversarial Network) 완전 정복하기](https://www.youtube.com/watch?v=odpjk7_tGY0&feature=youtu.be)
 
 ## 읽어보면 좋을만한 포스팅 or Links
 
@@ -71,6 +72,7 @@
 - [NAVER Deview 2019](https://deview.kr/2019/schedule​)
 - [머신러닝 / 딥러닝 도서비교표](https://docs.google.com/spreadsheets/d/1zpLFAPZ8NA6V09JUUU66g_lvpVra24B_ZTDHunM2O8c/edit?fbclid=IwAR26m1D3T4CatHHtY5Ff8fF3gZ8RRCmAuVS3g5V3_i-rdx73okSCWT0bOOs#gid=2144436952)
 - [Free and low cost resources for graduate students, postdocs, and early career researchers](https://docs.google.com/document/d/1IFbHIN5OOAO0qz-VfCU9nEx4-x6CfArj1-d8ylA2vsU/mobilebasic)
+- [자율주행 기업 리스트](https://selfdriving.fyi/)
 
 ## Dataset & Simulator
 
