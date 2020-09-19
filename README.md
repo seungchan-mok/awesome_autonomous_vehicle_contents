@@ -1,6 +1,6 @@
 # Autonomous_contents
 
-자율주행 를 위한 컨텐츠 모음
+자율주행 엔지니어를 위한 컨텐츠 모음
 
 ## Awesome projects
 
