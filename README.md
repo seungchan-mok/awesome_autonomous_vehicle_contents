@@ -95,5 +95,6 @@
 
 ## 미분류 Contents
 
+- [NIPS 2016 Tutorial: Generative Adversarial Networks](https://arxiv.org/abs/1701.00160)
 
 ### 이곳에 있는 링크는 분류를 거쳐 카테고리로 이동됩니다.
