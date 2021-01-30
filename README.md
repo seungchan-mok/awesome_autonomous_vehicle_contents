@@ -26,6 +26,8 @@
 - [An Invitation to 3D Vision: A Tutorial for Everyone](https://github.com/sunglok/3dv_tutorial)
 - [opensfm docs](https://www.opensfm.org/docs/)
 - [1시간만에 GAN(Generative Adversarial Network) 완전 정복하기](https://www.youtube.com/watch?v=odpjk7_tGY0&feature=youtu.be)
+- [event-based_vision_resources](https://github.com/uzh-rpg/event-based_vision_resources)
+- [NIPS 2016 Tutorial: Generative Adversarial Networks](https://arxiv.org/abs/1701.00160)
 
 ## 읽어보면 좋을만한 포스팅 or Links
 
@@ -95,6 +97,5 @@
 
 ## 미분류 Contents
 
-- [NIPS 2016 Tutorial: Generative Adversarial Networks](https://arxiv.org/abs/1701.00160)
 
 ### 이곳에 있는 링크는 분류를 거쳐 카테고리로 이동됩니다.
