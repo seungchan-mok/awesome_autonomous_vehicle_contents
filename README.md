@@ -1,6 +1,6 @@
 # Autonomous_contents
 
-자율주행 엔지니어를 위한 컨텐츠 모음
+자율주행 엔지니어를 위한 컨텐츠 모음 (SLAM, Deep Learning, Computer Vision..)
 
 ## Awesome projects
 
@@ -19,7 +19,6 @@
 - [YOLO v3 윈도우 버전 설치 및 튜토리얼 한방에 정리](https://studyingcoder.blogspot.com/2019/04/open-source-yolo-v3.html)
 - [PythonRobotics documentation](https://pythonrobotics.readthedocs.io/en/latest/)
 - [How to implement a YOLO (v3) object detector from scratch in PyTorch](https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/)
-- [딥러닝 기반 3차원 비전 객체 인식 PointNet 분석](http://daddynkidsmakers.blogspot.com/2017/07/3-pointnet.html)
 - [Developing an autonomous driving ML algorithm using OS1 intensity data](https://ouster.com/blog/developing-an-autonomous-driving-ml-algorithm-using-os1-intensity-data/)
 - [Probabilistic Robotic pdf](https://docs.ufpr.br/~danielsantos/ProbabilisticRobotics.pdf)
 - [Mathematics for Machine Learning - textbook](https://mml-book.github.io/)
@@ -28,9 +27,11 @@
 - [1시간만에 GAN(Generative Adversarial Network) 완전 정복하기](https://www.youtube.com/watch?v=odpjk7_tGY0&feature=youtu.be)
 - [event-based_vision_resources](https://github.com/uzh-rpg/event-based_vision_resources)
 - [NIPS 2016 Tutorial: Generative Adversarial Networks](https://arxiv.org/abs/1701.00160)
+- [Python - GraphSLAM](https://github.com/JeffLIrion/python-graphslam)
 
 ## 읽어보면 좋을만한 포스팅 or Links
 
+- [팔로우 하기 좋은 SLAM 연구자 링크](https://cv-learn.com/SLAM-75cbbf7e653e470caf31629385eae997)
 - [Least Squares (최소자승법)](http://jinyongjeong.github.io/2017/02/26/lec12_Least_square/)
 - [최소자승법 이해와 다양한 활용예 (Least Square Method)](https://darkpgmr.tistory.com/56)
 - [모든 컴퓨터 비젼 연구자들이 알아야 할 20개의 techniques](https://200315193.tistory.com/2028)
@@ -45,8 +46,8 @@
 - [Structure from Motion Tutorial](https://imkaywu.github.io/tutorials/sfm/)
 - [Graph SLAM: A Noob’s Guide to Simultaneous Localization And Mapping](https://medium.com/@krunalkshirsagar/graph-slam-a-noobs-guide-to-simultaneous-localization-and-mapping-aaff4ee91dee)
 - [Awesome Interaction-aware Behavior and Trajectory Prediction](https://github.com/jiachenli94/Awesome-Interaction-aware-Trajectory-Prediction)
-- [팔로우 하기 좋은 SLAM 연구자 링크](https://cv-learn.com/SLAM-75cbbf7e653e470caf31629385eae997)
 - [PTAM(Parallel Tracking and Mapping)과 PTAMM](https://darkpgmr.tistory.com/129)
+- [딥러닝 기반 3차원 비전 객체 인식 PointNet 분석](http://daddynkidsmakers.blogspot.com/2017/07/3-pointnet.html)
 
 ## Language & Frameworks
 
@@ -54,18 +55,19 @@
 - [파이썬 코딩 도장](https://dojang.io/course/view.php?id=7)
 - [ROS Tutorials](http://wiki.ros.org/ROS/Tutorials)
 - [ROS 강의 by 표윤석](https://www.youtube.com/playlist?list=PLRG6WP3c31_VIFtFAxSke2NG_DumVZPgw)
-- [초보를 위한 도커 안내서 - 설치하고 컨테이너 실행하기](https://subicura.com/2017/01/19/docker-guide-for-beginners-2.html)
-- [초보를 위한 도커 안내서 - 이미지 만들고 배포하기](https://subicura.com/2017/02/10/docker-guide-for-beginners-create-image-and-deploy.html)
 
 ## 커뮤니티
 
-- [SLAM KR Facebook Group](https://www.facebook.com/groups/slamkr)
+- [TensorFlow KR](https://www.facebook.com/groups/TensorFlowKR/)
+- [SLAM KR](https://www.facebook.com/groups/slamkr)
+- [V.AIS](https://open.kakao.com/o/ghU9D1o)
 - [자율주행을 좋아하는 사람들](https://open.kakao.com/o/geMJ6H2)
 - [저희는_SLAM_마스터가_될겁니다](https://open.kakao.com/o/g8T5kxLb)
 
 ## 기타자료
 
 - [논문검색프로그램 - Publish or Perish](https://harzing.com/resources/publish-or-perish)
+- [SLAM DUNK Season 2 Play list](https://www.youtube.com/playlist?list=PLubUquiqNQdP_H6uUmU-9f0y_LheA3Hil)
 - [그래픽드라이버 버전별 cuda 호환성](https://github.com/NVIDIA/nvidia-docker/wiki/CUDA)
 - [awesome-lane-detection](https://github.com/amusi/awesome-lane-detection)
 - [수식 캡쳐 - tex 변환](https://mathpix.com/)
@@ -75,6 +77,8 @@
 - [머신러닝 / 딥러닝 도서비교표](https://docs.google.com/spreadsheets/d/1zpLFAPZ8NA6V09JUUU66g_lvpVra24B_ZTDHunM2O8c/edit?fbclid=IwAR26m1D3T4CatHHtY5Ff8fF3gZ8RRCmAuVS3g5V3_i-rdx73okSCWT0bOOs#gid=2144436952)
 - [Free and low cost resources for graduate students, postdocs, and early career researchers](https://docs.google.com/document/d/1IFbHIN5OOAO0qz-VfCU9nEx4-x6CfArj1-d8ylA2vsU/mobilebasic)
 - [자율주행 기업 리스트](https://selfdriving.fyi/)
+- [Awesome SLAM KR List](https://github.com/slam-research-group-kr/awesome_SLAM_KR_List)
+- [Awesome SLAM Dataset List](https://sites.google.com/view/awesome-slam-datasets/home)
 
 ## Dataset & Simulator
 
